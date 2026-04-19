@@ -1,4 +1,11 @@
-# Nuxt Minimal Starter
+# Rick and Morty Codex
+
+Esse é um projeto para estudo do framework Nuxt.js, utilizando a API <a href="https://rickandmortyapi.com/"/>The Rick and Morty API</a> para os dados.
+
+
+
+
+## Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
